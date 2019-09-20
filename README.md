@@ -2,3 +2,4 @@
 
 -Alfa puede ver todos los archivos modificados y subidos
 -Beta puede ver todos los archivos modificados y subidos
+-Gama puede ver todos los archivos modificados y subidos
